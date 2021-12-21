@@ -27,7 +27,7 @@ Java e Spring Boot.
 Clone este repositório e entre na pasta do projeto.
 
 ```sh
-git clone https://github.com/CleysonPH/e-diaristas-spring.git
+git clone https://github.com/junieldantas/ediaristas-backend-api-spring.git
 cd e-diaristas-spring
 ```
 
